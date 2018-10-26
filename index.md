@@ -10,7 +10,7 @@ humandate: "January 14-16, 2019"
 humantime: "9:00 am - 5:00 pm"
 startdate: 2019-01-14
 enddate: 2019-01-16
-instructor: ["Pariksheet Nanda", "Kendra Maas", "Sue McClatchy"]
+instructor: ["Pariksheet Nanda", "Kendra Maas", "Sue McClatchy", "James Mickley", "Timothy Moore"]
 helper: ["Dyanna Louyakis", "Alex Trouern-Trend"]
 email: ["pariksheet.nanda@uconn.edu"]
 collaborative_notes: "https://pad.carpentries.org/2019-01-14-uconn"
