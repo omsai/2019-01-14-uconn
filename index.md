@@ -11,7 +11,7 @@ humantime: "9:00 am - 5:00 pm"
 startdate: 2019-01-14
 enddate: 2019-01-16
 instructor: ["Pariksheet Nanda", "Kendra Maas", "Sue McClatchy", "James Mickley", "Timothy Moore"]
-helper: ["Dyanna Louyakis", "Alex Trouern-Trend"]
+helper: ["Dyanna Louyakis", "Alex Trouern-Trend", "Dipanjana Dalui"]
 email: ["pariksheet.nanda@uconn.edu"]
 collaborative_notes: "https://pad.carpentries.org/2019-01-14-uconn"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
