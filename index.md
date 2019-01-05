@@ -14,7 +14,7 @@ instructor: ["Pariksheet Nanda", "Kendra Maas", "Sue McClatchy", "James Mickley"
 helper: ["Dyanna Louyakis", "Alex Trouern-Trend", "Dipanjana Dalui"]
 email: ["pariksheet.nanda@uconn.edu"]
 collaborative_notes: "https://pad.carpentries.org/2019-01-14-uconn"
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 54437327512
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
