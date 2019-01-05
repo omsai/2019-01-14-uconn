@@ -2,10 +2,10 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"
 venue: "University of Connecticut"
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Innovation Partership Building (IPB) room 315, 159 Discovery Drive, Storrs, CT 06269"
 country: "us"
 language: "en"
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "41.817535,-72.265571"
 humandate: "January 14-16, 2019"
 humantime: "9:00 am - 5:00 pm"
 startdate: 2019-01-14
