@@ -14,7 +14,7 @@ instructor: ["Pariksheet Nanda", "Kendra Maas", "Asli Uyar", "Cera Fisher", "Jam
 helper: ["Dyanna Louyakis", "Dipanjana Dalui"]
 email: ["pariksheet.nanda@uconn.edu"]
 collaborative_notes: "https://pad.carpentries.org/2019-01-14-uconn"
-eventbrite: 54437327512
+# eventbrite: 54437327512
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -45,6 +45,14 @@ eventbrite: 54437327512
   scrolling="auto">
 </iframe>
 {% endif %}
+
+<h2 style="color:red">Event Cancelled</h2>
+
+<p style="color:red">
+This workshop is cancelled.
+Thank you for your interest!
+We hope to see you at a future Carpentries workshop.
+</p>
 
 <h2 id="general">General Information</h2>
 
